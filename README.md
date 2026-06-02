@@ -2,7 +2,7 @@
 
 <img width="220" src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" />
 
-# 🤖 OpenJarvis
+# 🤖 IA-Local-Jarvis
 
 ### Personal AI, ejecutándose localmente en tus propios dispositivos 🚀
 
@@ -31,7 +31,7 @@
 
 # 🌌 Acerca del proyecto
 
-**OpenJarvis** es un framework de inteligencia artificial diseñado bajo una filosofía **Local-First AI**, permitiendo que asistentes personales funcionen directamente en dispositivos locales sin depender constantemente de APIs externas o servidores remotos.
+**IA-Local-Jarvis** es un framework de inteligencia artificial diseñado bajo una filosofía **Local-First AI**, permitiendo que asistentes personales funcionen directamente en dispositivos locales sin depender constantemente de APIs externas o servidores remotos.
 
 El proyecto surge a partir de investigaciones sobre eficiencia energética e inteligencia artificial local, demostrando que los modelos modernos ya pueden resolver gran parte de las tareas cotidianas ejecutándose directamente en hardware personal.
 
@@ -221,7 +221,7 @@ Agente persistente con memoria.
 # 📂 Estructura del proyecto
 
 ```bash
-OpenJarvis/
+IA-Local-Jarvis/
 │
 ├── agents/                 # Agentes inteligentes
 ├── skills/                 # Skills y herramientas
@@ -432,14 +432,15 @@ uv run pytest tests/ -v
 
 ---
 
-# 🏛️ Investigación y desarrollo
+# 👨‍💻 Desarrollador
 
-OpenJarvis forma parte de iniciativas de investigación en eficiencia de IA desarrolladas por:
+<div align="center">
 
-- Stanford SAIL
-- Hazy Research
-- Scaling Intelligence Lab
-- Intelligence Per Watt
+## Isai Reyes - FullStack Developer
+
+Creador de JARVIS on Messenger y promotor del aprendizaje open source mediante proyectos colaborativos de inteligencia conversacional.
+
+</div>
 
 ---
 
